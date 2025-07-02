@@ -33,7 +33,7 @@ Code, to me, is storytelling: one commit at a time.
 ## 🎓 Education
 
 **Northeastern University**  
-MS in Computer Science | Boston, MA, USA | Sep 2025 (expected)  
+MS in Computer Science | Boston, MA, USA | Sep 2025 
 *Courses: Programming Design Paradigm, Database Management Systems, and more to come!*
 
 **Vasavi College of Engineering**  
