@@ -3,7 +3,7 @@
 <h1 align="center">Engineering Systems That Behave, Scale, and Spark Joy</h1>
 
 <p align="center">
-    <i>Turning enterprise chaos into clean code. Never afraid to dive deep, break things (gently), and rebuild them smarter.</i>
+    <i>Turning enterprise chaos into clean code. Never afraid to dive deep, break things(gently), and rebuild them smarter.</i>
 </p>
 
 <p align="center">
