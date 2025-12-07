@@ -1,229 +1,210 @@
-<!-- Sai Varshini Thupakula - GitHub Profile README -->
+<!-- Sai Varshini Thupakula -->
 
-<h1 align="center">Engineering Systems That Behave, Scale, and Spark Joy</h1>
-
-<p align="center">
-    <i>Turning enterprise chaos into clean code. Never afraid to dive deep, break things(gently), and rebuild them smarter.</i>
-</p>
-
-<p align="center">
-    <img src="https://github.com/SaiVarshini1410/SaiVarshini1410/blob/main/coding-girl.gif?raw=true" alt="Coding GIF" width="400"/>
-</p>
+<div align="center">
+  <img src="https://github.com/SaiVarshini1410/SaiVarshini1410/blob/main/coding-girl.gif?raw=true" alt="Coding GIF" width="300"/>
+  
+  # Hi, I'm Sai Varshini
+  
+  **Software Engineer | Full-Stack Developer**
+  
+  MS CS @ Northeastern | Ex-IBM Backend Engineer
+  
+  ```javascript
+  const sai = {
+    code: ["Java", "JavaScript", "Python", "SQL"],
+    askMeAbout: ["backend systems", "full-stack dev", "how I shrunk an 11GB OS image to 2GB"],
+    currentlyLearning: "Advanced database systems at Northeastern",
+    funFact: "I've debugged production systems while customers watched. No pressure.",
+    lookingFor: "SWE internships & co-ops for Summer/Fall 2026"
+  };
+  ```
+  
+</div>
 
 ---
 
-## 👋 About Me
+## 🔧 What I'm Building Right Now
 
-Hi there! I’m Sai Varshini Thupakula, a software engineer who believes “it works” is just the starting point, not the destination.
+| Project | What's It About | Tech Stack |
+|---------|----------------|------------|
+| **MoveMind** | Moving planner that actually makes sense | React, Node.js, MySQL, Stored Procedures |
+| **SHEROS Website** | Platform for women of color in tech @ NEU | React, Tailwind CSS |
+| **Network Analysis** | Traffic patterns in IoT devices @ MonIoTr Labs | Wireshark, Protocol Analysis |
 
-My world revolves around:
+---
 
-- Playing a central role in backend engineering, from designing resilient systems in Java and Spring Boot to deploying on RHEL and Linux environments and architecting data layers with MongoDB and SQL
-- Diving into operating system upgrades, virtualization, containerization, and tuning enterprise deployments
-- Crafting full-stack applications with React.js frontends and Node.js backends, bridging business needs with technical elegance
-- I’ve explored data visualization with BIRT and Tableau, tackled AI challenges like IBM WatsonX hackathons, and built DevOps pipelines with Jenkins, Docker, and Git
-- And occasionally chasing rogue semicolons at 2 a.m. because they thought they could hide from me
+## 💻 My Repos Worth Checking Out
 
-I’m fascinated by the elegance of systems, whether it’s untangling kernel logs, fine-tuning middleware, or designing React components that keep users happy.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-Code, to me, is storytelling: one commit at a time.
+### [MoveMind](https://github.com/SaiVarshini1410/MoveMind)
+Full-stack moving planner. Because moving shouldn't be chaos.
+
+Track inventory by room, manage packing progress, generate checklists. Built with MERN stack + MySQL stored procedures.
+
+</td>
+<td width="50%" valign="top">
+
+### [Track-It](https://github.com/SaiVarshini1410/TrackIt)
+Job application tracker for when you're applying to 50+ companies.
+
+Secure auth, smart filtering, deadline tracking. Built with MERN stack.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### [Glaucoma Detection AI](https://github.com/SaiVarshini1410/Automated-Glaucoma-Detection)
+ML model that detects glaucoma from retinal images.
+
+94% accuracy on 2,664 images. Published research. Built with CNN, SVM, KNN.
+
+</td>
+<td width="50%" valign="top">
+
+### [Spectrum](https://github.com/SaiVarshini1410/Spectrum)
+Color palette manager for designers.
+
+Save colors in HEX, RGB, RGBA. Local storage so your palettes don't disappear.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Tech I Work With
+
+```yaml
+daily_drivers:
+  backend: [Spring Boot, Node.js, Express]
+  frontend: [React.js, Tailwind CSS]
+  databases: [MongoDB, MySQL, PostgreSQL]
+  
+languages:
+  fluent: [Java, JavaScript, Python]
+  conversational: [SQL, C/C++]
+  
+infrastructure:
+  - Docker & Kubernetes
+  - Linux/RHEL (built custom ISOs)
+  - Jenkins CI/CD
+  - VMware, KVM
+  
+ml_tools:
+  - TensorFlow, Scikit-learn
+  - NumPy, Pandas, OpenCV
+```
+
+---
+
+## 📊 Quick Stats
+
+```text
+Lines of Code Written:     Too many to count (but Git knows)
+Production Bugs Fixed:     More than I'd like to admit
+Coffee Consumed:           Measured in liters
+Best Debugging Time:       2 AM (when the bugs are sleepy too)
+```
+
+---
+
+## 💼 Where I've Worked
+
+### **Software Engineer @ IBM** (Aug 2023 - Jun 2025)
+
+Backend engineering on IBM Storage Protect Plus, an enterprise product handling massive data operations.
+
+**What I shipped:**
+- Migrated architecture from OSGi Spring to Spring Boot (25% stability improvement)
+- Led RHEL 8.7→9.5 upgrade across 500+ servers (40% less downtime)
+- Built custom OS image: 11GB → 2GB (yes, really)
+- Consolidated 5M documents from PostgreSQL to MongoDB (20% faster queries)
+- Fixed memory leaks, optimized logging, patched security vulnerabilities
+- Got 5x Star of the Month for shipping impossible deadlines
+
+**Tech:** Java, Spring Boot, MongoDB, PostgreSQL, RHEL, Docker, Node.js
+
+---
+
+### **Software Engineer Intern @ IBM** (Jan 2023 - Aug 2023)
+
+Built a full-stack VM management tool that became **Best Intern Project**.
+
+**What it did:**
+- Tracked idle VMs across teams
+- Let teams reuse existing VMs instead of spinning up new ones
+- Saved actual infrastructure costs
+- Got adopted by teams I didn't even know existed
+
+**Tech:** React.js, Node.js, MySQL, Docker, Python
+
+---
+
+### **ML Intern @ Verzeo** (Jun 2020 - Aug 2020)
+
+Built a used car price predictor using Random Forest (93% accuracy).
 
 ---
 
 ## 🎓 Education
 
-**Northeastern University**  
-MS in Computer Science | Boston, MA, USA | Sep 2025 
-*Courses: Programming Design Paradigm, Database Management Systems, and more to come!*
+**Northeastern University** - MS in Computer Science (2025-2027)  
+Currently taking: Programming Design Paradigm, Database Management Systems
 
-**Vasavi College of Engineering**  
-B.E. in Computer Science | Hyderabad, India | 2019 – 2023 | GPA: 9.1/10  
-*Courses: Data Structures and Algorithms, Design and Analysis of Algorithms, Object-Oriented Programming (Java), Software Engineering, Networking, Database Management Systems, Computer Organization and Architecture*
+**Vasavi College of Engineering** - B.E. in Computer Science (2019-2023)  
+GPA: 9.1/10
 
 ---
 
-## 💼 Experience
+## 📝 Research I Published
 
-### **Backend Developer | IBM – India Systems Development Labs (ISDL)**  
-*Aug 2023 – Jun 2025*
+**Automated Glaucoma Detection System**  
 
-- Played a central role in upgrading the product to RHEL 9.5, rewriting system scripts and building a custom ISO reduced from 11 GB to just 2 GB
-- Diagnosed and fixed critical crashes in the Virgo framework, collaborating directly with customers on-site to resolve production blockers under intense time pressure
-- Refactored a complex OSGi Virgo-based Spring application into a modern Spring Boot monolith, dramatically reducing system complexity and improving reliability
-- Contributed to IBM’s high-revenue Storage Protect Plus product built in Java and Spring, with deep involvement in core engineering and architectural optimizations
-- Managed virtualization environments, configured new build servers, and rebuilt the staging infrastructure, ensuring seamless deployment pipelines
-- Modernized legacy Python scripts from versions 2.7 and 3.6 to Python 3.9, improving maintainability and functionality in backup, restore, and diagnostics flows
-- Consolidated PostgreSQL data into MongoDB using optimized collections for higher query performance and simplified data handling
-- Implemented advanced log rotation and monitoring, increasing backend observability by 7% and streamlining diagnostics
-- Enhanced the Node.js middleware layer for faster, more efficient UI-backend communication
-- Led the creation and maintenance of release documentation for all areas of the code I was responsible for, ensuring clarity and smooth transitions for future teams
-- Resolved critical vulnerabilities, boosting the system’s security posture by 11% and reducing exposure to CVEs
-- Actively participated in WatsonX hackathons, IBM Sangam open-source events, and global tech forums to stay sharp on industry trends
+Built CNN/SVM/KNN model for early glaucoma detection. 94% accuracy on 2,664 retinal images. The goal: help catch vision loss before it's too late.
 
 ---
 
-### **Software Engineer Intern | IBM – India Systems Development Labs (ISDL)**  
-*Jan 2023 – Aug 2023*
+## 🏆 Things I've Won
 
-- Designed and developed a full-stack virtual machine management tool from scratch using React.js, Node.js, MySQL, and Docker
-- The tool tracked idle virtual machines, allowing users to connect with owners and reuse existing VMs rather than spinning up new instances each time, leading to significant infrastructure cost savings
-- Integrated Python scripts to fetch real-time VM-level metrics like CPU, memory, and disk stats, increasing diagnostic efficiency by 30%
-- Built a modular and customizable platform that adapted to diverse team requirements across IBM
-- Recognized as **Best Intern Project** for its impact and adoption across multiple teams beyond the original use case
-- Automated crucial test cases for the IBM Storage Protect Plus team, significantly reducing manual validation time during release cycles
-- Contributed to enhancements in IBM’s Continuous Build Automation (CBA) framework, optimizing repeated tasks and processes for large-scale deployments
-- Shadowed senior engineers during design and product architecture reviews, gaining insights into how scalable enterprise systems are envisioned and delivered
+- **Best Intern Project** - IBM
+- **3x Star of the Month** - IBM
+- **TechGig Geek Goddess** - Perfect 200/200
+- **CodeKaze 2022** - Ranked 12th
+- **International Math Olympiad** - 90%+
 
 ---
 
-### **Machine Learning Intern | Verzeo**  
-*Jun 2020 – Aug 2020*
+## 🌱 Beyond Code
 
-- Initiated and led a project to predict used car prices using real-world datasets, delivering a Random Forest model with 93% accuracy
-- Benchmarked model performance against Decision Trees and Linear Regression to identify optimal algorithms for deployment
-- Focused heavily on feature engineering to extract meaningful insights from raw datasets
-- Participated in discussions on deployment planning and scalability, even if the solution wasn’t fully productized during the internship
-- Documented findings and presented outcomes to both mentors and peers, turning complex technical insights into accessible knowledge for the team
+**Board Member @ Swayam Entrepreneurship Cell** (2019-2023)  
+Organized startup pitch competitions and brought industry mentors to campus.
 
----
-
-## 🔬 Research
-
-My research experience bridges technical rigor and real-world impact.
-
-Under **Prof. Nagaratna P. Hegde** | Vasavi College of Engineering:
-
-- **Automated Glaucoma Detection System**  
-    Co-developed a diagnostic tool using CNN, SVM, and KNN, achieving 94% accuracy on the RIGA dataset of 2,664 retinal fundus images. Published in an international journal, this project aims to enable early glaucoma screening, potentially preventing vision loss in under-resourced areas.
-
-- **Pest Prediction System**  
-    Collaborated on developing an image-processing system to help farmers detect pests early, supporting agricultural productivity and sustainability.
-
-- Assisted in designing lab modules for ML and image processing courses, performed literature reviews, curated datasets, and contributed to ongoing technical publications.
+**Volunteer @ Street Cause** (2019-2023)  
+Taught coding and math to underprivileged kids. Made learning fun.
 
 ---
 
-## 💻 Projects
+## 📫 Let's Talk
 
-### [🔗 Track-It](https://github.com/SaiVarshini1410/TrackIt)  
-**Job Application Tracker | MERN Stack**
+Whether you want to discuss backend architecture, full-stack projects, or that one bug that's been haunting you:
 
-Built to help students manage job applications, interviews, and follow-ups without missing a beat. Features secure authentication, intelligent filtering, and rate limiting for security. Born from real placement-season chaos.
-
----
-
-### [🔗 Automated Glaucoma Detection](https://github.com/SaiVarshini1410/Automated-Glaucoma-Detection)  
-**Machine Learning Research | Python, CNN, SVM, KNN**
-
-A diagnostic ML tool for early-stage glaucoma detection using fundus images. Achieved 94% accuracy. Published internationally. Combines advanced preprocessing and ensemble modeling for medical insights.
+- **LinkedIn:** [linkedin.com/in/saivarshinithupakula](https://www.linkedin.com/in/saivarshinithupakula/)
+- **Email:** thupakula.s@northeastern.edu
+- **More repos:** [github.com/SaiVarshini1410](https://github.com/SaiVarshini1410)
 
 ---
 
-### [🔗 Spectrum](https://github.com/SaiVarshini1410/Spectrum)  
-**Color Palette Manager | ReactJS**
-
-A playful yet practical tool for designers to save and copy color codes in HEX, RGB, and RGBA. Local storage ensures your palettes survive even if your browser has other ideas.
-
----
-
-### [🔗 Covid Safe Room](https://github.com/SaiVarshini1410/Covid-Safe-Room)  
-**IoT Project | Embedded Systems, Arduino**
-
-Developed during the pandemic, this system monitors temperature and room occupancy, controlling door access automatically. Because even viruses should have restricted entry.
-
----
-
-### [🔗 Online Food Ordering System](https://github.com/SaiVarshini1410/Online-Food-Ordering-System)  
-**Java Console Project**
-
-A classic console app simulating a food ordering system. Features dynamic menus, discounts, and file storage — a nostalgic nod to pure Java days.
-
----
-
-## 🛠️ Skills
-
-### **Domain Areas**
-
-- Backend Systems Engineering
-- Operating Systems Engineering
-- Frontend Development
-- Full-Stack Web Development
-- Distributed Systems
-- Virtualization and Containerization
-- Machine Learning and Data Science
-
-### **Languages & Frameworks**
-
-- Java
-- Spring / Spring Boot
-- Python
-- C / C++
-- JavaScript
-- Node.js
-- React.js
-- MongoDB
-- SQL
-- RHEL
-
-### **Tools**
-
-- Docker
-- Virtualization platforms (VMWare, KVM)
-- Git
-- Jenkins
-- Jupyter Notebook
-- BIRT
-- Tableau
-
-### **ML and AI Libraries**
-
-- NumPy
-- Pandas
-- Scikit-learn
-- TensorFlow
-- OpenCV
-- Matplotlib
-
----
-
-## 🌟 Achievements
-
-- **International Math Olympiad** – Scored 90%+, proving logic puzzles have been my jam from the start
-- **Best All-Rounder in Sports** – Because systems and humans both deserve to run efficiently
-- **TechGig Geek Goddess** – Scored a perfect 200/200
-- **CodeKaze 2022** – Ranked 12th at college level
-- **IBM Digital Credentials** – WatsonX Essentials, AIX Systems Administrator
-- **IBM Awards** – Star of the Month (×5), Monthly Thanks Award (×2) for going beyond the call of duty
-
----
-
-## 🌱 Volunteering
-
-**Board Member | Swayam, The Entrepreneurship Cell**  
-Sep 2019 – Jan 2023  
-- Promoted entrepreneurial thinking through workshops, speaker sessions, and business simulations
-- Organized flagship events like startup pitch competitions and innovation challenges
-- Coordinated with startups and industry mentors to provide practical insights
-- Led campus campaigns to promote innovation and leadership culture
-- Managed logistics and operations for seamless event execution
-
-**Student Volunteer | Street Cause**  
-Aug 2019 – Mar 2023  
-- Conducted interactive classes for underprivileged children, blending academics with fun
-- Organized knowledge-based games to make learning enjoyable
-- Planned community outings and celebrations for children
-- Contributed to fundraising efforts, engaging donors through campus events
-- Collaborated on monthly impact-driven initiatives
-
----
-
-## 🤝 Let’s Connect!
-
-Curious about backend wizardry, OS deep dives, full-stack adventures, or just want to swap stories about mysterious logs? Let’s talk tech (or memes).
-
-- [LinkedIn](https://www.linkedin.com/in/saivarshinithupakula/)
-- [GitHub Repos](https://github.com/SaiVarshini1410?tab=repositories)
-
-From Kernel Logs to React Hooks: I’m There.
-
-Thanks for dropping by my corner of GitHub 🚀
+<div align="center">
+  
+  ### 💭 Currently vibing to
+  
+  *"Make it work, make it right, make it fast" - in that order*
+  
+  ![](https://komarev.com/ghpvc/?username=SaiVarshini1410&color=blueviolet&style=flat-square&label=Profile+Views)
+  
+</div>
