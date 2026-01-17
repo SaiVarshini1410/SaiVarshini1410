@@ -13,23 +13,12 @@
   const sai = {
     code: ["Java", "JavaScript", "Python", "SQL"],
     askMeAbout: ["backend systems", "full-stack dev", "how I shrunk an 11GB OS image to 2GB"],
-    currentlyLearning: "Advanced database systems at Northeastern",
     funFact: "I've debugged production systems while customers watched. No pressure.",
     lookingFor: "SWE internships & co-ops for Summer/Fall 2026"
   };
   ```
   
 </div>
-
----
-
-## 🔧 What I'm Building Right Now
-
-| Project | What's It About | Tech Stack |
-|---------|----------------|------------|
-| **MoveMind** | Moving planner that actually makes sense | React, Node.js, MySQL, Stored Procedures |
-| **SHEROS Website** | Platform for women of color in tech @ NEU | React, Tailwind CSS |
-| **Network Analysis** | Traffic patterns in IoT devices @ MonIoTr Labs | Wireshark, Protocol Analysis |
 
 ---
 
